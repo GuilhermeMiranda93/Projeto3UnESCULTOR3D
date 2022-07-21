@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1658095324 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutbox.cpp
+	"cutBox.h"
+
+1658095324 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutbox.h
+	"Figurageometrica.h"
+
+1658095324 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\figurageometrica.h
+	"Sculptor.h"
+
+1658103398 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\sculptor.h
+	"Voxel.h"
+
+1658095324 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\voxel.h
+
+1658095324 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutsphere.cpp
+	"cutSphere.h"
+
+1658095324 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutsphere.h
+	"Figurageometrica.h"
+
+1658095324 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutvoxel.cpp
+	"cutVoxel.h"
+
+1658095324 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutvoxel.h
+	"Figurageometrica.h"
+
+1658089808 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\figurageometrica.cpp
+	<iostream>
+	"Figurageometrica.h"
+
+1658094599 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutellipsoid.cpp
+	"cutEllipsoid.h"
+
+1658095324 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\cutellipsoid.h
+	"Figurageometrica.h"
+
+1658096436 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putvoxel.cpp
+	"putVoxel.h"
+
+1658096436 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putvoxel.h
+	"Figurageometrica.h"
+	"sculptor.h"
+
+1658096436 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putsphere.cpp
+	"putSphere.h"
+
+1658096482 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putsphere.h
+	"Figurageometrica.h"
+
+1658096548 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putellipsoid.cpp
+	"putEllipsoid.h"
+	"sculptor.h"
+	"Leitorarquivos.h"
+
+1658096542 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putellipsoid.h
+	"Figurageometrica.h"
+
+1658097522 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\leitorarquivos.h
+	<vector>
+	"Figurageometrica.h"
+	<string>
+
+1658096716 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putbox.cpp
+	"putBox.h"
+	<iostream>
+
+1658096655 c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\putbox.h
+	"Figurageometrica.h"
+	"Sculptor.h"
+	"Voxel.h"
+
+1658100799 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\main.cpp
+	<iostream>
+	<vector>
+	"Figurageometrica.h"
+	"Sculptor.h"
+	"putVoxel.h"
+	"cutVoxel.h"
+	"putBox.h"
+	"cutBox.h"
+	"putSphere.h"
+	"cutSphere.h"
+	"putEllipsoid.h"
+	"cutEllipsoid.h"
+	"Leitorarquivos.h"
+
+1658102962 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\leitorarquivos.cpp
+	"Leitorarquivos.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	"putVoxel.h"
+	"cutVoxel.h"
+	"putBox.h"
+	"cutBox.h"
+	"putSphere.h"
+	"cutSphere.h"
+	"putEllipsoid.h"
+	"cutEllipsoid.h"
+
+1658103398 source:c:\users\guilh\desktop\escultor3dparte2\escultor3dparte2\sculptor.cpp
+	"sculptor.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cmath>
+	<vector>
+	<cstdlib>
+	<math.h>
+
